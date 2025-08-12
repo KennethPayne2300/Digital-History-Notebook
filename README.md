@@ -3,9 +3,8 @@
 Welcome to your first project for the "History of Technology" class. Your assignment is to create a digital notebook to document key figures and events in the history of computer science. This notebook will be version-controlled, allowing you to track your work and manage your revisions. 
 <br><br>
 Your final submission will be a public GitHub repository with a complete digital notebook that follows all of the steps below.<br><br>
-
 #### Assignment 1: Setting Up Your Notebook
-Your first task is to set up your digital notebook's central repository. <br><br>
+Your first task is to set up your digital notebook's central repository
 #### Instructions:
 1. Create a ****new public repository** on GitHub. Name it exactly:<br>
 Digital-History-Notebook.
