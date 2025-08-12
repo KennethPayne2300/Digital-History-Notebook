@@ -6,19 +6,19 @@ Your final submission will be a public GitHub repository with a complete digital
 #### Assignment 1: Setting Up Your Notebook
 Your first task is to set up your digital notebook's central repository
 #### Instructions:
-1. Create a ****new public repository** on GitHub. Name it exactly:<br>
+1. Create a **new public repository** on GitHub. Name it exactly:<br>
 Digital-History-Notebook.
 2. Add a **README.md** file when you create the repository.
 3. After creating the repository, clone it to your local computer. Open the README.md file in a text editor and copy and paste this entire assignment briefing into it.
 4. Once the content is in the file, you will need to push it back to GitHub.
 #### Report Status (These questions need to be answered for part of your grade):
 - **1.1:** What command did you use to bring the repository to your local machine?
-  - Answer:
+  - Answer: **git clone https://github.com/KennethPayne2300/2526PMNotes.git**
 - **1.2:** What was your first commit message to push this file to GitHub?
-  - Answer:
+  - Answer: "update README.md"
 #### Assignment 2: The Founding Visionaries
 Now, let's begin documenting the pioneers of our field. You will create files for two key figures.<br><br>
-#### Instructions:
+##### Instructions:
 1. On your local machine, create a new file named **ada-lovelace.md**.
 2. In this file, research and write a short paragraph about her contributions to early computing. (Cite those sources!)
 3. Create a second new file named **alan-turing.md**.
