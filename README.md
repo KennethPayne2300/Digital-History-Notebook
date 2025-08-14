@@ -117,3 +117,20 @@ When you have completed all assignments and answered all of the "Report Status" 
 1. A link to your public Digital-History-Notebook repository.
 2. A screenshot of your repository's commit history on GitHub. To find this, navigate to your repository, click the "commits" link near the top right, and take a screenshot of the page.<br><br>
 Be sure to answer the questions above as well.
+
+# Timeline:
+## The rise of the internet
+- 1936 - The first universal turing machine was built.
+  - ![a turing machine](https://upload.wikimedia.org/wikipedia/commons/0/03/Turing_Machine_Model_Davey_2012.jpg)
+- 1942 - the Atanasoff-Berry Computer was invented being the first digital computer.
+  - ![the Atanastoff-Berry Computer](https://images.computerhistory.org/revonline/images/500002003p-03-01.jpg?w=600)
+- 1943 - the Colossus, the first programable computer, was invented.
+  - ![The Colossus computer](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Frontal_view_of_the_reconstructed_Colossus_at_The_National_Museum_of_Computing%2C_Bletchley_Park.jpg/960px-Frontal_view_of_the_reconstructed_Colossus_at_The_National_Museum_of_Computing%2C_Bletchley_Park.jpg)
+- 1969 - ARPANET was created to share information securely.
+  - ![the ARPANET logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCX17S_dBcLxFSisf4wNkCbrFddGIB7P5iGA&s)
+- 1971 - The first home computer was made
+  - ![the first home computer](https://observer.com/wp-content/uploads/sites/2/2015/08/ibm_pc_5150.jpg?quality=80)
+- 1974 - TCP/IPs were invented.
+  - ![how TCP/IPs work](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJuim1k_u3pD32j--6UMsqiqL_Po8ab33umA&s)
+- 1989 - The World Wide Web was developed.
+  - ![the world wide web logo](https://tariqaustralia.wordpress.com/wp-content/uploads/2013/04/14821565-internet-world-wide-web-concept-earth-globe-with-www-text-and-computer-hand-cursor-isolated-on-white.jpg?w=640)
