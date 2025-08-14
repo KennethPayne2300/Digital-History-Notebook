@@ -123,7 +123,7 @@ Be sure to answer the questions above as well.
 - 1936 - The first universal turing machine was built.
   - ![a turing machine](https://upload.wikimedia.org/wikipedia/commons/0/03/Turing_Machine_Model_Davey_2012.jpg)
 - 1942 - the Atanasoff-Berry Computer was invented being the first digital computer.
-  - ![the Atanastoff-Berry Computer](https://images.computerhistory.org/revonline/images/500002003p-03-01.jpg?w=600)
+  - ![the Atanastoff-Berry Computer]([https://images.computerhistory.org/revonline/images/500002003p-03-01.jpg?w=600](https://www.thoughtco.com/thmb/IRwI3zDT1PEweB9SY_4zB_BExp4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1280px-Atanasoff-Berry_Computer-58e714d75f9b58ef7e75a2de.jpg))
 - 1943 - the Colossus, the first programable computer, was invented.
   - ![The Colossus computer](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Frontal_view_of_the_reconstructed_Colossus_at_The_National_Museum_of_Computing%2C_Bletchley_Park.jpg/960px-Frontal_view_of_the_reconstructed_Colossus_at_The_National_Museum_of_Computing%2C_Bletchley_Park.jpg)
 - 1969 - ARPANET was created to share information securely.
