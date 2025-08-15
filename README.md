@@ -106,7 +106,7 @@ As a final step, you realize your notebook could use a concluding thought. You w
 6. Return to your local machine's terminal and use git pull to get your concluding thoughts.
 #### Report Status:
 - **7.1:** What command did you use to retrieve your final thoughts from GitHub?
-  - Answer:
+  - Answer: git pull
 #### High-Level Challenge: The Editing Mistake
 You were working on a file for an extra credit assignment but made a mistake. You committed the error to your local history, but you realize your mistake before pushing. You need to completely erase the commit so there is no record of the error.
 #### Instructions:
@@ -141,3 +141,6 @@ Be sure to answer the questions above as well.
   - ![how TCP/IPs work](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJuim1k_u3pD32j--6UMsqiqL_Po8ab33umA&s)
 - 1989 - The World Wide Web was developed.
   - ![the world wide web logo](https://tariqaustralia.wordpress.com/wp-content/uploads/2013/04/14821565-internet-world-wide-web-concept-earth-globe-with-www-text-and-computer-hand-cursor-isolated-on-white.jpg?w=640)
+
+# Final Thoughts
+It was an informative assignment detailing how we got to this point on the internet.
