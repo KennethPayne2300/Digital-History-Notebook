@@ -29,9 +29,12 @@ Now, let's begin documenting the pioneers of our field. You will create files fo
 8. Finally, use **git push** to publish your work to GitHub.
 #### Report Status:
 - **2.1**: What two file names did you create?
-  - Answer: ada-lovelace.md, alan-turing.md
+  - Answer: 
 - **2.2**: What was your commit message?
   - Answer: Added pioneers Ada and Alan
+
+[ada lovelace](ada-lovelace.md), [alan turing](alan-turing.md)
+
 #### Assignment 3: A Timeline of the Internet
 To celebrate the interconnected world of computing, you will create a timeline of key events in the internet's history. You will do this by editing your README.md file directly on GitHub.
 #### Instructions:
@@ -56,9 +59,11 @@ Now, let's add two more influential figures who shaped the modern era of computi
 6. Use **git push** to publish your changes.
 #### Report Status:
 - **4.1:** What command did you use to save your changes to your local notebook?
-  - Answer:
+  - Answer: git add ., git commit -m "added modern innovators
 - **4.2:** What command did you use to publish your changes to the remote repository?
-  - Answer:
+  - Answer: git push
+
+[bill gates](bill-gates.md), [steve jobs](steve-jobs.md)
 #### Assignment 5: Peer Review
 Your classmates are now reviewing your work. A peer has left a suggestion for one of your files.
 #### Instructions:
