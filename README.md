@@ -76,9 +76,9 @@ Your classmates are now reviewing your work. A peer has left a suggestion for on
 7. Finally, use **git pull** to get your peer's feedback.
 #### Report Status:
 - **5.1:** What did git status tell you after you ran git fetch?
-  - Answer:
+  - Answer: that I'm behind by 1 commit.
 - **5.2**: What command did you use to merge your peer's changes into your local notebook?
-  - Answer:
+  - Answer: git pull.
 #### Assignment 6: The Web's Inventor
 With the internet's timeline now in your notebook, let's document one of its key figures.
 #### Instructions:
@@ -90,9 +90,11 @@ With the internet's timeline now in your notebook, let's document one of its key
 6. Use git push to publish this final piece of research.
 #### Report Status:
 - **6.1:** What was your commit message for this assignment?
-  - Answer:
+  - Answer: Added Tim Berners-Lee
 - **6.2:** What command did you use to publish your work?
-  - Answer:
+  - Answer: git push
+
+[Tim Berners Lee](tim-berners-lee.md)
 #### Assignment 7: Final Edits
 As a final step, you realize your notebook could use a concluding thought. You will add this directly on GitHub.
 #### Instructions:
