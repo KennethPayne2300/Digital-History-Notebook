@@ -29,7 +29,7 @@ Now, let's begin documenting the pioneers of our field. You will create files fo
 8. Finally, use **git push** to publish your work to GitHub.
 #### Report Status:
 - **2.1**: What two file names did you create?
-  - Answer: 
+  - Answer: ada-lovelace.md, alan-turing.md
 - **2.2**: What was your commit message?
   - Answer: Added pioneers Ada and Alan
 
